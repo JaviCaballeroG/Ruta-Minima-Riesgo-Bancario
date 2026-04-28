@@ -1,0 +1,9 @@
+Origen,Destino,Costo_Riesgo
+O,A,2
+O,C,1
+A,U,1
+U,V,1
+V,B,2
+B,D,1
+C,D,1
+X,Y,5
