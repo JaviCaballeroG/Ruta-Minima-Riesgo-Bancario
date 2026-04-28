@@ -10,7 +10,7 @@ El núcleo de la solución es el **Algoritmo de Dijkstra**, aplicado de forma se
 
 ## 2. Cómo Generar los Datos y Correr la Solución
 El proyecto es autocontenido y reproducible:
-1.  **Generación:** Al ejecutar la celda "3. Generación de Dataset Sintético" en el Notebook, se crea automáticamente un grafo con escenarios de éxito y error.
+1.  **Generación**: Al ejecutar las celdas de "Dataset Sintético", el Notebook genera la estructura del grafo y exporta automáticamente el archivo transferencias_sinteticas.csv. Este archivo es el mismo que se encuentra en el repositorio para facilitar auditorías externas.
 2.  **Ejecución:**
     * Abrir `Examen_Data_Analytics_Scientist_Jr_Francisco_Caballero.ipynb` en Google Colab o Jupyter.
     * Ejecutar todas las celdas (`Ctrl + F9` en Colab).
@@ -42,4 +42,4 @@ El proyecto es autocontenido y reproducible:
 
 ---
 **Candidato:** Francisco Javier Caballero Garcia  
-**Perfil:** Data Analytics & Scientist | Especialista en Procesos de Datos
+**Perfil:** Data Analytics & Scientist
